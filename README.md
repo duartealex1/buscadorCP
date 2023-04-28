@@ -1,12 +1,12 @@
-<h1 align="left">Calcular IMC</h1>
+<h1 align="left">Buscador de Código Postal</h1>
 
 ###
 
-<p align="left">A classificação do índice de massa corporal (IMC) pode ajudar a identificar problemas de obesidade ou desnutrição, em crianças, adolescentes, adultos e idosos.</p>
+<p align="left">Com esse buscador, podemos verificar através do Código Postal: Concelho, Distrito, Localidade</p>
 
 ###
 
-<p align="left">A formula do IMC= peso (kg)/altura (m)2</p>
+<p align="left">A API consumida nesse App foi: https://geoapi.pt/cp/</p>
 
 ###
 <p align="left">O deployer foi feito no site https://vercel.com/</p>
@@ -25,6 +25,6 @@
 
 ###
 
-[Clique aqui para calcular seu IMC](https://calcular-imc-react-js.vercel.app/)
+[Clique aqui para Buscar](https://buscador-f3johqoh2-duartealex1.vercel.app/)
 
 ###
