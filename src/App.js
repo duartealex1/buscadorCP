@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import api from "./services/Api";
 //icons react icons
-import { FiSearch } from "react-icons/fi";
+//import { FiSearch } from "react-icons/fi";
 
 function App() {
   const [input, setInput] = useState("2495300");
@@ -44,7 +44,7 @@ function App() {
         ></input>
 
         <button className="btn btn-primary scale" onClick={search}>
-          <FiSearch size={25} />
+        <i class="bi bi-search"></i>
         </button>
       </span>
       {Object.keys(cep).length > 0 && (
